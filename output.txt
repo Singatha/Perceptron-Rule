@@ -1,0 +1,8 @@
+Xhanti Singatha
+ML Lab 4
+
+Question 1
+5 minimum number perceptrons, it should be of the following ((input 1 AND NOT(input 2)) OR (NOT(input 1) AND input 2)).
+
+Question 2
+It took twice the training examples.
